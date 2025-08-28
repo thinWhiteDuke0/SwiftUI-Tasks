@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		8FEA92242E5E4D76002D1CDC /* Environment objects.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Environment objects.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8FEF86152E60FA8100A6760A /* EnvironmantTasks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EnvironmantTasks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		8FEA92262E5E4D76002D1CDC /* Environment objects */ = {
+		8FEF86172E60FA8100A6760A /* EnvironmantTasks */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Environment objects";
+			path = EnvironmantTasks;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		8FEA92212E5E4D76002D1CDC /* Frameworks */ = {
+		8FEF86122E60FA8100A6760A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8FEA921B2E5E4D76002D1CDC = {
+		8FEF860C2E60FA8100A6760A = {
 			isa = PBXGroup;
 			children = (
-				8FEA92262E5E4D76002D1CDC /* Environment objects */,
-				8FEA92252E5E4D76002D1CDC /* Products */,
+				8FEF86172E60FA8100A6760A /* EnvironmantTasks */,
+				8FEF86162E60FA8100A6760A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		8FEA92252E5E4D76002D1CDC /* Products */ = {
+		8FEF86162E60FA8100A6760A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8FEA92242E5E4D76002D1CDC /* Environment objects.app */,
+				8FEF86152E60FA8100A6760A /* EnvironmantTasks.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8FEA92232E5E4D76002D1CDC /* Environment objects */ = {
+		8FEF86142E60FA8100A6760A /* EnvironmantTasks */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8FEA922F2E5E4D79002D1CDC /* Build configuration list for PBXNativeTarget "Environment objects" */;
+			buildConfigurationList = 8FEF86202E60FA8300A6760A /* Build configuration list for PBXNativeTarget "EnvironmantTasks" */;
 			buildPhases = (
-				8FEA92202E5E4D76002D1CDC /* Sources */,
-				8FEA92212E5E4D76002D1CDC /* Frameworks */,
-				8FEA92222E5E4D76002D1CDC /* Resources */,
+				8FEF86112E60FA8100A6760A /* Sources */,
+				8FEF86122E60FA8100A6760A /* Frameworks */,
+				8FEF86132E60FA8100A6760A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				8FEA92262E5E4D76002D1CDC /* Environment objects */,
+				8FEF86172E60FA8100A6760A /* EnvironmantTasks */,
 			);
-			name = "Environment objects";
+			name = EnvironmantTasks;
 			packageProductDependencies = (
 			);
-			productName = "Environment objects";
-			productReference = 8FEA92242E5E4D76002D1CDC /* Environment objects.app */;
+			productName = EnvironmantTasks;
+			productReference = 8FEF86152E60FA8100A6760A /* EnvironmantTasks.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		8FEA921C2E5E4D76002D1CDC /* Project object */ = {
+		8FEF860D2E60FA8100A6760A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					8FEA92232E5E4D76002D1CDC = {
+					8FEF86142E60FA8100A6760A = {
 						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = 8FEA921F2E5E4D76002D1CDC /* Build configuration list for PBXProject "Environment objects" */;
+			buildConfigurationList = 8FEF86102E60FA8100A6760A /* Build configuration list for PBXProject "EnvironmantTasks" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 8FEA921B2E5E4D76002D1CDC;
+			mainGroup = 8FEF860C2E60FA8100A6760A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 8FEA92252E5E4D76002D1CDC /* Products */;
+			productRefGroup = 8FEF86162E60FA8100A6760A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8FEA92232E5E4D76002D1CDC /* Environment objects */,
+				8FEF86142E60FA8100A6760A /* EnvironmantTasks */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8FEA92222E5E4D76002D1CDC /* Resources */ = {
+		8FEF86132E60FA8100A6760A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8FEA92202E5E4D76002D1CDC /* Sources */ = {
+		8FEF86112E60FA8100A6760A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		8FEA922D2E5E4D79002D1CDC /* Debug */ = {
+		8FEF861E2E60FA8300A6760A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		8FEA922E2E5E4D79002D1CDC /* Release */ = {
+		8FEF861F2E60FA8300A6760A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -246,7 +246,7 @@
 			};
 			name = Release;
 		};
-		8FEA92302E5E4D79002D1CDC /* Debug */ = {
+		8FEF86212E60FA8300A6760A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -266,7 +266,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hnj.Environment-objects";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hnj.EnvironmantTasks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -274,7 +274,7 @@
 			};
 			name = Debug;
 		};
-		8FEA92312E5E4D79002D1CDC /* Release */ = {
+		8FEF86222E60FA8300A6760A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -294,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hnj.Environment-objects";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hnj.EnvironmantTasks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -305,25 +305,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8FEA921F2E5E4D76002D1CDC /* Build configuration list for PBXProject "Environment objects" */ = {
+		8FEF86102E60FA8100A6760A /* Build configuration list for PBXProject "EnvironmantTasks" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8FEA922D2E5E4D79002D1CDC /* Debug */,
-				8FEA922E2E5E4D79002D1CDC /* Release */,
+				8FEF861E2E60FA8300A6760A /* Debug */,
+				8FEF861F2E60FA8300A6760A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8FEA922F2E5E4D79002D1CDC /* Build configuration list for PBXNativeTarget "Environment objects" */ = {
+		8FEF86202E60FA8300A6760A /* Build configuration list for PBXNativeTarget "EnvironmantTasks" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8FEA92302E5E4D79002D1CDC /* Debug */,
-				8FEA92312E5E4D79002D1CDC /* Release */,
+				8FEF86212E60FA8300A6760A /* Debug */,
+				8FEF86222E60FA8300A6760A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 8FEA921C2E5E4D76002D1CDC /* Project object */;
+	rootObject = 8FEF860D2E60FA8100A6760A /* Project object */;
 }
